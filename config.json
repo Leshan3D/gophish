@@ -6,11 +6,7 @@
     "key_path": "gophish_admin.key",
     "trusted_origins": [
       "https://gophish-production-5cda.up.railway.app",
-      "http://gophish-production-5cda.up.railway.app",
-      "https://another-backup-url.com",
-      "http://another-backup-url.com",
-      "https://fallback-url.com",
-      "http://fallback-url.com"
+      "http://gophish-production-5cda.up.railway.app"
     ]
   },
   "phish_server": {
@@ -28,4 +24,3 @@
     "level": ""
   }
 }
-```
