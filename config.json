@@ -4,7 +4,9 @@
     "use_tls": false,
     "trusted_origins": [
       "https://gophish-production-a3af.up.railway.app",
-      "http://gophish-production-a3af.up.railway.app"
+      "http://gophish-production-a3af.up.railway.app",
+      "https://gophish-production-2759.up.railway.app",
+      "http://gophish-production-2759.up.railway.app"
     ]
   },
   "phish_server": {
